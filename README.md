@@ -1,6 +1,6 @@
 #Spis treści:
 
-1. [Rozdział 1 - Wstęp do Selenium](Selenium_1_rozdział.md) 
+1. [Rozdział 1 - Wstęp do Selenium](Selenium_1_rozdział) 
 2. 
 
 
