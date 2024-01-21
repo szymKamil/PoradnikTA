@@ -1,7 +1,7 @@
 #Spis treści:
 
-1. [Rozdział 1 - Wstęp do Selenium](Wprowadzenie_do_TA.md) 
-2. [Rozdział 3](rozdzial-3.md)
+1. [Rozdział 1 - Wstęp do Selenium](Selenium_1_rozdział.md) 
+2. 
 
 
 # Wstęp
