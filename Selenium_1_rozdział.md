@@ -6,3 +6,6 @@ Testy automatyczne mają to do siebie, że stanowią formę większych lub mniej
 ### IDE - Zintegrowane środowisko programistyczne
 W przypadku tego poradnika korzystać będziemy z InteliJ. W moim krótkim doświadczeniu jest to najlepsze (i dedykowane) środowisko do pisania kodu w Javie. 
 Nie znaczy to, ze jest to jedyne środowisko. Możesz korzystać także z Eclipse czy [Visual Studio Code](https://code.visualstudio.com/docs/java/java-testing). Robisz to jednak na własne ryzyko - w ogólnym działaniu IDE są do siebie podobne, jednak różnią się np. ustawieniami, interfejsem, itp. Jesli uznasz, że preferujesz inne IDE i poradzisz sobie samodzielnie na podstawie ogólnych wskazówek, to możesz to zrobić. Samemu, uszcząc się Selenium, zrezygnowałem z Eclipse (w którym prowadzone było szkolenie) własnie na rzecz InteliJ. 
+
+* Pobieramy i instalujemy [InteliJ](https://www.jetbrains.com/idea/). Uwaga! Pobieramy Community Edition, który jest darmową wersją programu.
+* 
