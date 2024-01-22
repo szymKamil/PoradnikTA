@@ -11,5 +11,5 @@ Nie znaczy to, ze jest to jedyne środowisko. Możesz korzystać także z Eclips
 * Tworzymy nowy projekt (File -> New -> Project). Podajemy dowolną nazwę projektu, upewniamy się, że wybranym językiem jest Java, a sposób budowy projektu jest ustawiony na Maven. W oknie JDK wybieramy naszą wersję [JDK](https://www.oracle.com/pl/java/technologies/downloads/), którą mamy zainstalowaną w systemie. Zalecam wybór/pobranie 19. Jesteśmy już prawie gotowi do uruchomienia naszego pierwszego testu. 
 ![Sposób utworzenia nowego projektu](https://github.com/szymKamil/PoradnikTA/blob/main/Ilustracje/2024-01-22_11h50_27.gif) 
 
-*** WebDriver 
+### WebDriver 
 
