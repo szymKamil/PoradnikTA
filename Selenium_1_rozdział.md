@@ -8,5 +8,8 @@ W przypadku tego poradnika korzystać będziemy z InteliJ. W moim krótkim dośw
 Nie znaczy to, ze jest to jedyne środowisko. Możesz korzystać także z Eclipse czy [Visual Studio Code](https://code.visualstudio.com/docs/java/java-testing). Robisz to jednak na własne ryzyko - w ogólnym działaniu IDE są do siebie podobne, jednak różnią się np. ustawieniami, interfejsem, itp. Jesli uznasz, że preferujesz inne IDE i poradzisz sobie samodzielnie na podstawie ogólnych wskazówek, to możesz to zrobić. Samemu, uszcząc się Selenium, zrezygnowałem z Eclipse (w którym prowadzone było szkolenie) własnie na rzecz InteliJ. 
 
 * Pobieramy i instalujemy [InteliJ](https://www.jetbrains.com/idea/). Uwaga! Pobieramy Community Edition, który jest darmową wersją programu.
-* Tworzymy nowy projekt. Podajemy dowolną nazwę projektu, upewniamy się, że wybranym językiem jest Java, a sposób budowy projektu jest ustawiony na Maven. W oknie JDK wybieramy naszą wersję [JDK](https://www.oracle.com/pl/java/technologies/downloads/), którą mamy zainstalowaną w systemie. Zalecam wybór/pobranie 19. 
+* Tworzymy nowy projekt (File -> New -> Project). Podajemy dowolną nazwę projektu, upewniamy się, że wybranym językiem jest Java, a sposób budowy projektu jest ustawiony na Maven. W oknie JDK wybieramy naszą wersję [JDK](https://www.oracle.com/pl/java/technologies/downloads/), którą mamy zainstalowaną w systemie. Zalecam wybór/pobranie 19. Jesteśmy już prawie gotowi do uruchomienia naszego pierwszego testu. 
 ![Sposób utworzenia nowego projektu](https://github.com/szymKamil/PoradnikTA/blob/main/Ilustracje/2024-01-22_11h50_27.gif) 
+
+*** WebDriver 
+
